@@ -1,0 +1,11 @@
+C:\Users\PurpleSky\Documents\Visual Studio Projects\GraphicsThreads\bin\Debug\GraphicsThreads.exe.config
+C:\Users\PurpleSky\Documents\Visual Studio Projects\GraphicsThreads\bin\Debug\GraphicsThreads.exe
+C:\Users\PurpleSky\Documents\Visual Studio Projects\GraphicsThreads\bin\Debug\GraphicsThreads.pdb
+C:\Users\PurpleSky\Documents\Visual Studio Projects\GraphicsThreads\obj\Debug\GraphicsThreads.csproj.AssemblyReference.cache
+C:\Users\PurpleSky\Documents\Visual Studio Projects\GraphicsThreads\obj\Debug\GraphicsThreads.csproj.SuggestedBindingRedirects.cache
+C:\Users\PurpleSky\Documents\Visual Studio Projects\GraphicsThreads\obj\Debug\GraphicsThreads.Form1.resources
+C:\Users\PurpleSky\Documents\Visual Studio Projects\GraphicsThreads\obj\Debug\GraphicsThreads.Properties.Resources.resources
+C:\Users\PurpleSky\Documents\Visual Studio Projects\GraphicsThreads\obj\Debug\GraphicsThreads.csproj.GenerateResource.cache
+C:\Users\PurpleSky\Documents\Visual Studio Projects\GraphicsThreads\obj\Debug\GraphicsThreads.csproj.CoreCompileInputs.cache
+C:\Users\PurpleSky\Documents\Visual Studio Projects\GraphicsThreads\obj\Debug\GraphicsThreads.exe
+C:\Users\PurpleSky\Documents\Visual Studio Projects\GraphicsThreads\obj\Debug\GraphicsThreads.pdb
